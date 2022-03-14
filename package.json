@@ -1,0 +1,22 @@
+{
+  "name": "trein",
+  "version": "1.0.0",
+  "description": "kkk eae men",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b0will/Trein.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b0will/Trein/issues"
+  },
+  "homepage": "https://github.com/b0will/Trein#readme"
+}
